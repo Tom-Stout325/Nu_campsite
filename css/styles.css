@@ -44,10 +44,10 @@ header h2 {
 }
 
 .carousel-caption {
-    /* background-color: rgba(143, 28, 172,0.5); */
-    border: solid 1px white;
-    /* border-radius: 10px; */
-}
+    background-color: rgba(0, 0, 0, 0.5); 
+    /* border: solid 1px white;
+    border-radius: 10px; */
+} 
 
 .carousel {
     border: solid #5637DD;
